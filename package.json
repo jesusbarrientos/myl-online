@@ -1,0 +1,17 @@
+{
+  "name": "myl-online",
+  "version": "1.0.0",
+"description": "Juego de cartas online basado en el clásico Mitos y Leyendas",
+  "author": "Jesús Barrientos",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.0"
+  }
+}
